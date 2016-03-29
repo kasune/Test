@@ -1,0 +1,7 @@
+ldap.host=172.30.25.101
+ldap.port=6667
+
+base.dn=DVIEW=ECS1_request_data
+password=ainet1
+base.object=DVIEW=ECS1_req_bundle
+request=sid=6511111111:1
